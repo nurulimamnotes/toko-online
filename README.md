@@ -1,4 +1,4 @@
-toko-online
+Toko Online Dengan PHP & MySQL
 ===========
 
-Toko Online
+Script pembuatan Toko Online dengan menggunakan PHP & MySQL
