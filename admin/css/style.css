@@ -1,0 +1,159 @@
+body {
+    font-family: Verdana,sans-serif,Arial;
+	background-color: #000;
+	font-size: 0.75em;
+}
+.clearfloat {
+    clear: both;
+}
+.wrap {
+    border: 5px solid #CCCCCC;
+    margin: 10px auto;
+    padding: 5px;
+	background-color: #fff;
+}
+.Judul {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 5px 5px 5px 5px;
+	}
+.LeftOne {
+	float: left;
+	width: 200px;
+	}
+.RightOne {
+	float: right;
+	}
+.header {
+    height: 120px;
+    margin-bottom: 10px;
+}
+.form {
+	margin: 10px 10px 10px 10px;
+	border: 1px solid #CCC;
+	padding: 2px 2px 2px 2px;
+	}
+.BigContent {
+	width: 100%;
+	}
+.LeftContent {
+	float: left;
+    margin: 5px;
+    width: 180px;
+}
+.RightContent {
+	float: left;
+    padding: 5px;
+    width: 900px;
+}
+.produk {
+    float: left;
+    width: 130px;
+}
+.pesanprod {
+    float: left;
+    margin-left: 10px;
+}
+.FotoProduk {
+	padding: 3px 3px 3px 3px;
+	border: 1px solid #CCC;
+	}
+.detprod {
+    float: left;
+    margin-left: 10px;
+}
+.cart {
+    background-color: #fff;
+    float: right;
+    min-height: 50px;
+    width: 200px;
+	border-bottom: 1px solid #CCC;
+}
+.KetCart {
+	font-size: 18px;
+	float: left;
+	margin-top: 25px;
+	font-weight: bold;
+	margin-left: 10px;
+	}
+input {
+	margin: 10px 10px 10px 10px;
+	}
+#navigation {font-size:0.75em; width:150px;}
+#navigation ul {margin:0px; padding:0px;}
+#navigation li {list-style: none;} 
+
+ul.top-level {background:#666;}
+ul.top-level li {
+ border-bottom: #fff solid;
+ border-top: #fff solid;
+ border-width: 1px;
+}
+
+#navigation a {
+ color: #fff;
+ cursor: pointer;
+ display:block;
+ height:25px;
+ line-height: 25px;
+ text-indent: 10px;
+ text-decoration:none;
+ width:100%;
+ font-size: 12px;
+ text-align: left;
+}
+#navigation a:hover{
+ text-decoration:underline;
+}
+
+#navigation li:hover {
+ background: #f90;
+ position: relative;
+}
+.footer {
+	background-color: #DBF7FA;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 30px;
+	}
+.KetProd {
+	background-color: #fff;
+	width: 500px;
+	height: 200px;
+	padding: 10px 10px 10px 10px;
+	}
+.tombol {
+	float: right;
+	margin-right:30px;
+	margin-top: 30px;
+	font-weight: bold;
+	color: #121212;
+	}
+.tombol:hover {
+	background: none repeat scroll 0 0 #FF9900;
+	padding: 2px 2px 2px 2px;
+	}
+.GambarKetProd {
+	float: left;
+	width: 150px;
+	margin-right: 20px;
+	padding: 3px 3px 3px 3px;
+	border: 1px solid #CCC;
+	}
+.TableCart {
+	border: 1px solid #CCC;
+	color: #000000;
+    font-family: Verdana;
+    font-size: 8pt;
+    line-height: 18px;
+    text-decoration: none;
+    width: 100%;
+	float: left;
+	}
+.TableCart input {
+	border: 1px solid #CCC;
+	}
+
+th {
+	background-color: #e0e0e0;
+	}

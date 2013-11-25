@@ -1,0 +1,1 @@
+<div class="LeftContent">	<div id="navigation">		<ul class="top-level">		<img src="images/kupon.gif">		</ul>	</div>	<div id="navigation">		<ul class="top-level">		<img src="images/kupon.gif">		</ul>	</div></div>
